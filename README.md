@@ -35,3 +35,9 @@ https://trello.com/invite/b/6695262144c57b6733565a0f/ATTI10a32a188dd4255b9ffa005
 Spring Security
 ### Publicación en git y github
 (video)(https://youtu.be/bhKkeOMysuw?si=nf76wHb-8biTcpiq)
+Instalación de MySQL
+
+Para ayudarte en esta etapa de construcción de la base de datos para nuestro proyecto ForoHub, nos gustaría dejarte algunos enlaces importantes tanto para la instalación de MySQL como para la configuración de la base de datos a través del proyecto Spring.
+
+Base de datos mysql enlace para descargar el instalador para Windows: (https://dev.mysql.com/downloads/installer/)
+
